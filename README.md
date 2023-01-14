@@ -19,8 +19,8 @@ This project outlines the implementation of how DNS works.
 
 ## Overview
 
-<img src="images/fail.png" width=50%>
-<img src="images/overview.png" width=50%>
+<img src="images/fail.png" width=70%>
+<img src="images/overview.png" width=70%>
 
 ## Configuration Steps
 ###### top
@@ -74,6 +74,7 @@ Ping "search" and check status
 <img src="images/pingsearch.png">
 
 ### Bonus Section: Root Hints
+[back to top](#top)
 
 - Since ***Client-1 is solely rely on DC-1*** to resolve all domain name queries but DC-1 only have 3 domain name (dc-1, mainframe, search)
 - When you're browsing 1 website, check local DNS cache (Section 2) and there are ***bunch of random domains instead of your single website URL only***
