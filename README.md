@@ -86,4 +86,4 @@ Ping "search" and check status
 ## Credits
 [back to top](#top)
 
-- Josh Madakor [link](https://github.com/joshmadakor1)
+- [Josh Madakor](https://github.com/joshmadakor1)
